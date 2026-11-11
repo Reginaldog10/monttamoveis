@@ -74,6 +74,7 @@ export const SITE_IMAGES = {
   },
   banners: {
     heroBanner: "/images/banners/banner-hero-montta.png",
+    ogShareImage: "/images/banners/og-montta-moveis.png",
     heroMainPhoto: "/images/portfolio/guarda-roupa-6-portas-01.jpg",
     heroSecondaryPhoto: "/images/portfolio/painel-rack-tv-01.jpg",
   },
